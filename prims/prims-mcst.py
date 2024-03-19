@@ -1,6 +1,10 @@
 """
 Input format:
 n m
+n_1
+n_2
+...
+n_n
 u_1 v_1 w_1
 u_2 v_2 w_2
 u_3 v_3 w_3
